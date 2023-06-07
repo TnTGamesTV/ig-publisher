@@ -40,7 +40,7 @@
     "@typescript-eslint/eslint-plugin": "^5.45.1",
     "@typescript-eslint/parser": "^5.45.1",
     "chai": "^4.1.2",
-    "conventional-changelog-cli": "^2.0.12",
+    "conventional-changelog-cli": "^3.0.0",
     "coveralls": "^3.0.3",
     "cz-conventional-changelog": "^3.0.2",
     "eslint": "^8.2.0",
